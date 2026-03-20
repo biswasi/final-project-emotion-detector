@@ -16,17 +16,13 @@ Ensure that the output of your emotion detection application is well-formatted a
 
 Task 4: Package the Application
 Package your application for ease of deployment. You should have a clear and concise set of instructions for deploying it.
-
-Task 5: Run Unit Tests
 Test your application thoroughly to ensure it functions as expected. Create unit tests to validate its behavior.
 
-Task 6: Deploy as a Web Application Using Flask
+Task 5: Deploy as a Web Application Using Flask
 Take your emotion detection application and deploy it as a web application using the Flask framework. This step involves making your application accessible over the web.
 
-Task 7: Incorporate Error Handling
+Task 6: Incorporate Error Handling
 Implement robust error handling to ensure that your application gracefully handles unexpected situations.
-
-Task 8: Run Static Code Analysis
 Perform static code analysis to review your code for potential issues, code quality, and adherence to best practices.
 
  You will have created a functional emotion detection web application that can be accessed by users on the internet.
