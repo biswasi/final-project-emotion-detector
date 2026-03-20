@@ -1,8 +1,5 @@
 """
 Flask Server for Emotion Detection Application
-
-This module provides a web server that exposes an emotion detection API
-using the EmotionDetection package.
 """
 
 from flask import Flask, render_template, request
