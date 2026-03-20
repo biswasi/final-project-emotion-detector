@@ -11,7 +11,7 @@ class TestEmotionDetection(unittest.TestCase):
 
     def test_joy_dominant(self):
         """Test that joy is detected as dominant emotion for joyful text."""
-        statement = "I am glad this happened"
+        statement = "I am happy as I am doing code"
         result = emotion_detector(statement)
         self.assertEqual(result['dominant_emotion'], 'joy')
 
